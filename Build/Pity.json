@@ -1,0 +1,17 @@
+{
+"companyName": "AemaethMonster",
+"productName": "Pity",
+"productVersion": "0.1",
+"dataUrl": "Pity.data.unityweb",
+"asmCodeUrl": "Pity.asm.code.unityweb",
+"asmMemoryUrl": "Pity.asm.memory.unityweb",
+"asmFrameworkUrl": "Pity.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1c1"
+}
